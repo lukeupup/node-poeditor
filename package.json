@@ -3,6 +3,7 @@
   "version": "1.0.7",
   "description": "A node module to send translations to the po editor api",
   "main": "lib/index.js",
+  "types": "./types/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
